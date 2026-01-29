@@ -119,7 +119,9 @@ This project is licensed under the MIT License.
 ### 📬 Contact
 
 Developer: Jeyaarikaran
+
 GitHub: https://github.com/Jeyaarikaran
+
 Email: aridhanush5@gmail.com
 
 
